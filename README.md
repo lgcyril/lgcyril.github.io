@@ -1,4 +1,4 @@
-# <a href="https://lgcyril.github.io/" target="_blank">Picolas at Adacademy</a> : First group project at <a href="https://adatechschool.fr/" target="_blank">Ada Tech School!</a> Eight days only with fours developers.
+# <a href="https://lgcyril.github.io/" target="_blank">Picolas at Adacademy</a> : First group project at <a href="https://adatechschool.fr/" target="_blank">Ada Tech School!</a> In eight days only with fours developers.
 **Picolas Team :** Anne, Cyril, Helene and Myriam.<br>
 **Link : https://www.lexaloffle.com/bbs/?tid=46811**<br>
 
