@@ -1,14 +1,19 @@
-# Link : https://lgcyril.github.io/
-The Game :
+# <a href="https://lgcyril.github.io/" target="_blank">Picolas at Adacademy</a> : First group project at <a href="https://adatechschool.fr/" target="_blank">Ada Tech School!</a>, eight days with fours developers.
+**Picolas Team :** Anne, Cyril, Helene and Myriam.<br>
+**Link : https://www.lexaloffle.com/bbs/?tid=46811**<br>
+
+**The idea :** In eight days, our Picolas Team has to learn a new programming language called Lua and co-developed a web game for the first time on PICO-8, a fantasy console for making, sharing and playing tiny games and other computer programs. The aim is to learn to do a RPG game about the Diversity, Equity, and Inclusion (DEI) with dialog boxes.<br>
+
+**The Game :**
 Your mission is to discover the neighbourhood around the new school's address(in Paris) and get out of your comfort zone to discover the final surprise.
 
-Controls :
+**Controls      :**
 Arrow keys - Move Picolas
 [X] - Run and Close dialogue
 
-Background :
-We are four students from Ada Tech School Paris and for our first group project we had to make a game with Pico 8 in two weeks.
+**Languages     :** Lua (for Pico 8 console), html<br>
+**Tools         :** Notion, Slack, Git/GitHub, Visual Studio Code<br>
+**Source Pico 8 :** https://www.lexaloffle.com/pico-8.php<br>
+**Organization  :** Daily review of the steps to achieve, debugging, mob programming, clean code<br><br>
+**We are very proud of our progress after only two weeks at <a href="https://adatechschool.fr/" target="_blank">Ada Tech School!</a>**
 
-Credits :
-Anne, Cyril, Helene and Myriam.
-Four students at Ada Tech School :  <a href="https://adatechschool.fr/" target='_blank'>adatechschool.fr</a>
