@@ -11,4 +11,4 @@ We are four students from Ada Tech School Paris and for our first group project 
 
 Credits :
 Anne, Cyril, Helene and Myriam.
-Four students at Ada Tech School : adatechschool.fr
+Four students at Ada Tech School : adatechschool.fr <a href="adatechschool.fr">link text</a>
