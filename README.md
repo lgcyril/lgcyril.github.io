@@ -2,7 +2,7 @@
 **Picolas Team :** Anne, Cyril, Helene and Myriam.<br>
 **Link : https://www.lexaloffle.com/bbs/?tid=46811**<br>
 
-**The idea :** In eight days, our Picolas Team has to learn a new programming language called Lua and co-developed a web game for the first time on PICO-8, a fantasy console for making, sharing and playing tiny games and other computer programs. The aim is to learn to do a RPG game about the Diversity, Equity, and Inclusion (DEI) with dialog boxes.<br>
+**The idea :** In eight days, our Picolas Team has to learn a new programming language called Lua and has co-developed a web game for the first time on PICO-8, a fantasy console for making, sharing and playing tiny games and other computer programs. The aim is to learn to do a RPG game about the Diversity, Equity, and Inclusion (DEI) with dialog boxes.<br>
 
 **The Game :**
 Your mission is to discover the neighbourhood around the new school's address(in Paris) and get out of your comfort zone to discover the final surprise.
