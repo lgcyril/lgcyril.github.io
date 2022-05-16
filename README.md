@@ -13,7 +13,7 @@ Arrow keys - Move Picolas
 
 **Languages     :** Lua (for Pico 8 console), html<br>
 **Tools         :** Notion, Slack, Git/GitHub, Visual Studio Code<br>
-**Source Pico 8 :** https://www.lexaloffle.com/pico-8.php<br>
+**Sources       :** https://www.lexaloffle.com/pico-8.php , tutorials on YT<br>
 **Organization  :** Daily review of the steps to achieve, debugging, mob programming, clean code and agility<br><br>
 **We are very proud of our progress after only two weeks at <a href="https://adatechschool.fr/" target="_blank">Ada Tech School!</a>**
 
