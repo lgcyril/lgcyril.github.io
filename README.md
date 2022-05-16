@@ -1,4 +1,4 @@
-# lgcyril.github.io
+# Link : https://lgcyril.github.io/
 The Game :
 Your mission is to discover the neighbourhood around the new school's address(in Paris) and get out of your comfort zone to discover the final surprise.
 
